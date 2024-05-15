@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { BlankPageComponent } from './blank-page/blank-page.component';
+import { BlankPageComponent } from './demo-one/blank-page.component';
 
 
 const routes: Routes = [

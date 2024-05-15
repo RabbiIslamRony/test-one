@@ -43,7 +43,7 @@ import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-om-perfect-scrollbar';
 import { PerfectScrollbarConfigInterface } from 'ngx-om-perfect-scrollbar';
 import { FullCalendarModule } from '@fullcalendar/angular';
 
-import { BlankPageComponent } from './blank-page/blank-page.component';
+import { BlankPageComponent } from './demo-one/blank-page.component';
 
 
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
