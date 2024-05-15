@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - **Tailwind Version:** 3.4.3
 - **Typescript Version:** 5.4.5
 - **apexcharts:** 3.48.0
-- **chart.js:** 4.4.2
+- **chart.js:** 4.4.2 
 
 
 ## Development server
@@ -25,7 +25,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
